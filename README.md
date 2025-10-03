@@ -1,1 +1,2 @@
-# Correctness-and-the-Loop-Invariant-ALGO
+# Correctness-and-the-Loop-Invariant-ALGO.This corrected insertion sort algorithm works by iterating through the array and for each element, shifting all larger elements to the right until finding the correct position to insert the current element. The fix from j > 0 to j >= 0 ensures that comparisons include the first element at index 0, allowing proper sorting from the very beginning of the array.
+
